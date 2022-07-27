@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    background-color: sandybrown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    min-width: 400px;
+}
+button {
+    
+    color: blue;
+    background-color: red;
+    font-weight: bold;
+    padding: 10px 20px; /*top , bottom = 5px and left , right = 10px */
+    border-radius: 3cm;
+    margin-bottom: 4px;
+    border: none;
+}
+#clear-btn {
+    background-color: white;
+    color:teal;
+}
+ul {
+    margin-top: 20px;
+    text-align: left;
+    list-style: square;
+    color:blue;
+    padding-left: 0;
+}
+li {
+    margin-top: 5px;
+}
+a {
+    color: red;
+}
+input {
+    width: 100%; /*this will create width outside the body as 100% + 10px + 10px(of padding)*/
+    background-color: white;
+    padding: 10px;  /* all left right top and bottom padding = 20px */
+    box-sizing: border-box; /* to fix width problem */
+    border: 1px solid red;
+  /*  border-radius: 3cm; */
+     
+    margin-bottom: 4px;
+}
