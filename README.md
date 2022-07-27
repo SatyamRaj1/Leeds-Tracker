@@ -1,2 +1,3 @@
 # Leeds-Tracker
-Chrome Extension
+- Chrome Extension
+- Learned  in Scrimba.com Course for JavaScript
